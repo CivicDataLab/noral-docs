@@ -31,6 +31,7 @@ Walkthroug of the possible platform
 
 * User Flows
 * Wireframes
+* Data Model
 * Architecture
 {% endtab %}
 
