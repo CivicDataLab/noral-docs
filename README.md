@@ -26,7 +26,12 @@ description: >-
 {% endtab %}
 
 {% tab title="3. SOLUTION" %}
+Walkthroug of the possible platform  
 
+
+* User Flows
+* Wireframes
+* Architecture
 {% endtab %}
 
 {% tab title="4. WAY FORWARD" %}
