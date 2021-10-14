@@ -22,3 +22,11 @@ The objective within this initial phase is to work with stakeholders to identify
 
 [The Fraser of Allander Institute](https://www.strath.ac.uk/business/economics/fraserofallanderinstitute/]) (FAI) at the University of Strathclyde is a leading independent economic research institute focused on the Scottish economy since 1975.
 
+#### East Neuk Analytics
+
+[East Neuk Analytics](collaboration.md#objectives) supports headteachers to improve their data literacy through training and bespoke tools for their schools. By supporting teachers to improve their confidence in their data led decision-making, it gives them more time to spend with the children and young people in their school.
+
+#### Glasgow Caledonian University
+
+[Glasgow Caledonian University](https://www.gcu.ac.uk) (GCU) is a vibrant, innovative and multi-award winning University for the Common Good. Their aim is to contribute to society in a manner that embraces yet goes beyond the traditional role of a university. GCU’s For the Common Good commitment is brought to life through their strategy and by the actions of staff, students and alumni around the world.
+
