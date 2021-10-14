@@ -1,4 +1,4 @@
-# \[TEMP\] Document Flow
+# \[TEMP] Document Flow
 
 ### Table of Contents
 
@@ -16,4 +16,3 @@
 
 * Starting point post the UoS Research
 * If these are the 3 ways the data is ingested
-

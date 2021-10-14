@@ -3,17 +3,19 @@
 * [The Northern Alliance Project](README.md)
 * [\[TEMP\] Document Flow](format-wip.md)
 
-## Background
+## Introduction <a href="intro" id="intro"></a>
 
-* [Landscape](background/landscape.md)
-* [Collaboration](background/collaboration.md)
-* [Approach](background/approach.md)
+* [Context](intro/context.md)
+* [Background](intro/landscape.md)
+* [Collaboration](intro/collaboration.md)
+* [Approach](intro/approach.md)
 
-## Tech
+***
+
+* [Stakeholder Survey](stakeholder-survey.md)
 
 ## Resources
 
 * [FAQs](resources/faqs.md)
 * [GitHub](https://github.com/The-Data-for-Children-Collaborative/noral-project)
-* [Slides](https://noral.netlify.app/)
-
+* [Slides](https://noral.netlify.app)
