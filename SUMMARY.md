@@ -2,7 +2,6 @@
 
 * [The Northern Alliance Project](README.md)
 * [Table of Contents](table-of-contents.md)
-* [\[TEMP\] Document Flow](format-wip.md)
 
 ## Introduction <a href="intro" id="intro"></a>
 
@@ -15,17 +14,24 @@
 
 ***
 
-* [Stakeholder Survey](stakeholder-survey.md)
-* [Stakeholder Workshop](stakeholder-workshop.md)
-* [Design Audit](design-audit.md)
-* [Stakeholder Interviews](stakeholder-interviews.md)
-* [User Personas and Journeys](user-personas-and-journeys.md)
-* [Lo-Fidelity Wireframes](lo-fidelity-wireframes.md)
-* [Feedback](feedback.md)
+* [Stakeholder Engagement](stakeholder-engagement/README.md)
+  * [Survey](stakeholder-engagement/survey.md)
+  * [Workshop](stakeholder-engagement/workshop.md)
+  * [Interviews](stakeholder-engagement/interviews.md)
+* [Existing Tools](existing-tools/README.md)
+  * [User Feedback](existing-tools/user-feedback.md)
+  * [Design Audit](existing-tools/design-audit.md)
+* [Platform Requirements](platform-requirements/README.md)
+  * [Features](platform-requirements/features.md)
+  * [Data Model](platform-requirements/data-model.md)
+  * [Toolkit](platform-requirements/toolkit.md)
 
 ## Solution
 
-* [Solution](solution/solution.md)
+* [Personas and Journeys](solution/personas-and-journeys.md)
+* [Wireframes](solution/wireframes.md)
+* [Platform Architecture](solution/platform-architecture.md)
+* [Feedback](solution/feedback.md)
 
 ## Way Forward
 
