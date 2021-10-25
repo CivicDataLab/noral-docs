@@ -24,7 +24,6 @@
 * [Platform Requirements](platform-requirements/README.md)
   * [Features](platform-requirements/features.md)
   * [Data Model](platform-requirements/data-model.md)
-  * [Toolkit](platform-requirements/toolkit.md)
 
 ## Solution
 
