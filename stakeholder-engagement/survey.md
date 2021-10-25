@@ -1,7 +1,5 @@
 # Survey
 
-### Background
-
 As a first step of the stakeholder research a [survey](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/01-stakeholder-survey/01-01-stakeholder-survey.md) was conducted to better understand the current landscape, primary users, their aspirations and challenges faced along the way. This information also played an important role in planning for the upcoming engagements with the key stakeholders.
 
 ### Summary

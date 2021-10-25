@@ -1,7 +1,5 @@
 # Interviews
 
-### Background
-
 The main objective of Individual Stakeholder Interviews is to understand the role of access to information in solving poverty and attainment related gaps across the Northern Alliance Region of Scotland. These interviews focused on details related to individual stakeholder role & responsibilities, Stakeholder interaction with data or data sets, Challenges faced in the current system or data sets, Aspiration of the new platform and what all it should cover.
 
 **Key areas of discussion with the Stakeholders:**

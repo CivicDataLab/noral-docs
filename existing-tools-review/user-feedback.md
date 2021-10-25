@@ -1,7 +1,5 @@
 # User Feedback
 
-### Background
-
 As one of the key exerices of the workshop, the stakeholders were asked to share the most frequently used tools and review them on the following criteria:
 
 * Things they liked about the tool / platform.

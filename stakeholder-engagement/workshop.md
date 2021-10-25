@@ -1,7 +1,5 @@
 # Workshop
 
-### Background
-
 Following the initial [Stakeholder Survey](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/01-stakeholder-survey), a workshop was conducted with the key stakeholders to get inputs on the following fronts:
 
 * The data tools and resources most frequently used by Stakeholders and their experiences with the same.

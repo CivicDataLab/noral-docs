@@ -1,7 +1,5 @@
 # Design Audit
 
-### Background
-
 Design consistency has the power to influence the experience of users of any digital product. An inconsistently designed product can directly affect user trust and likability negatively. Design Audit for such inconsistent products comes into play here. It is considered as a preventive checkup of a digital product, performed by design experts to identify the deficiencies and the ideal experience.
 
 In a design audit, the design experts thoroughly examine all elements of a digital product based on their business objectives, metrics, and usability standards. They then list down the areas of improvement and recommend solutions to improve the overall experience.
