@@ -1,2 +1,12 @@
 # Platform Requirements
 
+### Background
+
+
+
+
+
+### Framework
+
+
+
