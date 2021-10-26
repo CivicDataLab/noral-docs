@@ -25,8 +25,8 @@ These outputs informed the creation of **user personas**, **journeys **and** wir
 [personas-and-journeys.md](../../solution/personas-and-journeys.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../solution/wireframes.md" %}
-[wireframes.md](../../solution/wireframes.md)
+{% content-ref url="../../solution/wireframes/" %}
+[wireframes](../../solution/wireframes/)
 {% endcontent-ref %}
 
 ### Methodology

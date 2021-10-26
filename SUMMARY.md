@@ -27,9 +27,9 @@
 
 * [Blueprint](solution/blueprint.md)
 * [Personas and Journeys](solution/personas-and-journeys.md)
-* [Wireframes](solution/wireframes.md)
+* [Wireframes](solution/wireframes/README.md)
+  * [Feedback](solution/wireframes/feedback.md)
 * [Platform Architecture](solution/platform-architecture.md)
-* [Feedback](solution/feedback.md)
 
 ## Way Forward
 

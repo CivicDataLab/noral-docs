@@ -12,7 +12,7 @@ Creating personas will help to understand users' needs, experiences, behaviours 
 
 #### **Framework**
 
-![Stakeholder Persona Template](<../.gitbook/assets/image (2).png>)
+![Stakeholder Persona Framework](../.gitbook/assets/persona-format.png)
 
 The personas contain the following information about the stakeholders:
 
