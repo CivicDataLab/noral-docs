@@ -39,8 +39,8 @@ The following approach was undertaken better understand the stakeholders:
 
 All the information generated from various primary and secondary stakeholder touchpoints was consildated to create Personas and Jounreys to envision the ideal solution for their needs.
 
-{% content-ref url="../solution/personas-and-journeys.md" %}
-[personas-and-journeys.md](../solution/personas-and-journeys.md)
+{% content-ref url="../../solution/personas-and-journeys.md" %}
+[personas-and-journeys.md](../../solution/personas-and-journeys.md)
 {% endcontent-ref %}
 
 You can read about the detailed description of the stakeholder research framework [here](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/research-framework.md) and find the research outputs from each of the steps [here](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/tree/main/research).&#x20;

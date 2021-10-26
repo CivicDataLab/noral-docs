@@ -12,21 +12,20 @@
 
 ## Research
 
-***
-
-* [Stakeholder Engagement](stakeholder-engagement/README.md)
-  * [Survey](stakeholder-engagement/survey.md)
-  * [Workshop](stakeholder-engagement/workshop.md)
-  * [Interviews](stakeholder-engagement/interviews.md)
-* [Existing Tools Review](existing-tools-review/README.md)
-  * [User Feedback](existing-tools-review/user-feedback.md)
-  * [Design Audit](existing-tools-review/design-audit.md)
-* [Platform Requirements](platform-requirements/README.md)
-  * [Features](platform-requirements/features.md)
-  * [Data Model](platform-requirements/data-model.md)
+* [Stakeholder Engagement](research/stakeholder-engagement/README.md)
+  * [Survey](research/stakeholder-engagement/survey.md)
+  * [Workshop](research/stakeholder-engagement/workshop.md)
+  * [Interviews](research/stakeholder-engagement/interviews.md)
+* [Existing Tools Review](research/existing-tools-review/README.md)
+  * [User Feedback](research/existing-tools-review/user-feedback.md)
+  * [Design Audit](research/existing-tools-review/design-audit.md)
+* [Platform Requirements](research/platform-requirements/README.md)
+  * [Features](research/platform-requirements/features.md)
+  * [Data Model](research/platform-requirements/data-model.md)
 
 ## Solution
 
+* [Blueprint](solution/blueprint.md)
 * [Personas and Journeys](solution/personas-and-journeys.md)
 * [Wireframes](solution/wireframes.md)
 * [Platform Architecture](solution/platform-architecture.md)

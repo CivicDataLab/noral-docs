@@ -17,16 +17,16 @@ The main objective of Individual Stakeholder Interviews is to understand the rol
 
 All the information from the interviews was synthesied and captured in Stakeholder Insight Maps capturing the roles and responsiblities, type of information they ineract with, challenges faces and aspirations of a dram ecosystem.
 
-![](<../.gitbook/assets/image (4).png>)
+![](../../.gitbook/assets/user-insights.png)
 
 These outputs informed the creation of **user personas**, **journeys **and** wireframes** for primary and secondary stakeholders.
 
-{% content-ref url="../solution/personas-and-journeys.md" %}
-[personas-and-journeys.md](../solution/personas-and-journeys.md)
+{% content-ref url="../../solution/personas-and-journeys.md" %}
+[personas-and-journeys.md](../../solution/personas-and-journeys.md)
 {% endcontent-ref %}
 
-{% content-ref url="../solution/wireframes.md" %}
-[wireframes.md](../solution/wireframes.md)
+{% content-ref url="../../solution/wireframes.md" %}
+[wireframes.md](../../solution/wireframes.md)
 {% endcontent-ref %}
 
 ### Methodology
