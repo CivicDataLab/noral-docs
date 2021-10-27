@@ -30,7 +30,7 @@
 * [Wireframes](solution/wireframes/README.md)
   * [Feedback](solution/wireframes/feedback.md)
 * [Platform Architecture](solution/platform-architecture/README.md)
-  * [Stack](solution/platform-architecture/stack.md)
+  * [Technology Stack](solution/platform-architecture/technology-stack.md)
 
 ## Way Forward
 
