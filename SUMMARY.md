@@ -29,7 +29,8 @@
 * [Personas and Journeys](solution/personas-and-journeys.md)
 * [Wireframes](solution/wireframes/README.md)
   * [Feedback](solution/wireframes/feedback.md)
-* [Platform Architecture](solution/platform-architecture.md)
+* [Platform Architecture](solution/platform-architecture/README.md)
+  * [Stack](solution/platform-architecture/stack.md)
 
 ## Way Forward
 
