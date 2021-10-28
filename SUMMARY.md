@@ -38,7 +38,6 @@
 
 ## Resources
 
-* [FAQs](resources/faqs.md)
 * [GitHub](https://github.com/The-Data-for-Children-Collaborative/noral-project)
 * [Slides](https://noral.netlify.app)
 * [License](resources/license.md)

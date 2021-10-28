@@ -31,3 +31,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 {% content-ref url="resources/license.md" %}
 [license.md](resources/license.md)
 {% endcontent-ref %}
+
+### Contact
+
+For any queries related to the work please contact [education@civicdatalab.in](mailto:education@civicdatalab.in) .
