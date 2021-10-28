@@ -5,9 +5,9 @@
 
 ## Introduction <a href="intro" id="intro"></a>
 
-* [Context](intro/context.md)
-* [Background](intro/landscape.md)
-* [Collaboration](intro/collaboration.md)
+* [Context](intro/context/README.md)
+  * [Background](intro/context/landscape.md)
+  * [Collaboration](intro/context/collaboration.md)
 * [Approach](intro/approach.md)
 
 ## Research
