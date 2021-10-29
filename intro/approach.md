@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Approach
 
 ### The 4 Pillars

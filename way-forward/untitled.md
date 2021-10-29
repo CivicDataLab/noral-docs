@@ -1,3 +1,0 @@
-# Untitled
-
-* Involve the community.
