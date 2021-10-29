@@ -77,7 +77,7 @@ The Personas and Journeys for all the key primary and secondary stakeholders are
 {% endtab %}
 
 {% tab title="Research Support" %}
-
+![](../.gitbook/assets/resarch-analyst.png)
 {% endtab %}
 {% endtabs %}
 

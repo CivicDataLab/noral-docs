@@ -7,11 +7,6 @@ coverY: 0
 The techology arrchitecture of the platform has been driven by the understanding through the following threads:
 
 * Intention and Objective of the suggested new platform and how it's functionalities have been inspired by the landscape of existing tools.
-
-{% content-ref url="../blueprint.md" %}
-[blueprint.md](../blueprint.md)
-{% endcontent-ref %}
-
 * Possible journeys various stakeholders might take through the platform and how they will engage with various pieces of the solution.
 
 {% content-ref url="../personas-and-journeys.md" %}
@@ -56,6 +51,17 @@ To support the various sources of data, the system contains various data storage
 * The central datastore manages the processing, indexing, caching and archival of data.
 * A knowledge graph of all the base truths in the system is maintained to enable information mapping against mutiple data sources.
 
+{% hint style="info" %}
+`Possible Stack`
+
+Realtime Storage - Redis
+
+Relational Database - PostgreSQL\
+Non-Relational - CouchDB\
+Object Store - AWS S3\
+Cache - Redis
+{% endhint %}
+
 #### User Facing Portals
 
 ![User Facing Portal](../../.gitbook/assets/user-facing.png)
@@ -66,7 +72,7 @@ Catering to the requirements of the key stakeholders, these are some of the comp
 * **Data Catalog** : Repository of the all datasets available on the plaform to various users based on their access rights to explore, visualise, share and more.
 * **Data Stories** : Capability to use existing data and visualisations, and stitch naratives around the same which can be published on the platform.
 * **Community Portal** : A central portal for variopus stakeholders of the communicy to come together, share relevant information and support each other in build capacity.
-* **System Moderation Control Panel** :&#x20;
+* **System Moderation Control Panel** : Management of various system components of the platofrm like analytics, access, usage patterns and more.
 * **Data Management Platform** : Access platform available to key data fiduciaries to provide access to relevant datasets based on requirements and eligibility of the users.
 
 #### Monitoring and Analysis

@@ -1,4 +1,4 @@
-# Stack
+# Technology Stack
 
 **Dashboard**:\
 \- React\
@@ -7,7 +7,7 @@
 \- Typescript\
 \
 **Identity Manager**:\
-\- SSO system\
+\- SSO system - keycloak\
 \- Integrated w/ NORAL\
 \
 **Access Manager**:\
