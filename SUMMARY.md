@@ -29,8 +29,7 @@
 * [Blueprint](solution/blueprint.md)
 * [Wireframes](solution/wireframes/README.md)
   * [Feedback](solution/wireframes/feedback.md)
-* [Platform Architecture](solution/platform-architecture/README.md)
-  * [Technology Stack](solution/platform-architecture/technology-stack.md)
+* [Platform Architecture](solution/platform-architecture.md)
 
 ## Way Forward
 
