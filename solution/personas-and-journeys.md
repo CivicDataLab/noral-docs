@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Personas and Journeys
+# 👤 Personas and Journeys
 
 ### Personas
 

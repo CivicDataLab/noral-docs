@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Approach
+# 🔓 Approach
 
 ### The 4 Pillars
 

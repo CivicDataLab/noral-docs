@@ -2,6 +2,6 @@
 coverY: 0
 ---
 
-# Building Blocks
+# 🏗 Building Blocks
 
 * Involve the community.

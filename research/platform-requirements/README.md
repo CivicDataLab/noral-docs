@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Platform Requirements
+# 🧱 Platform Requirements
 
 ### Background
 

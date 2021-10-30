@@ -1,13 +1,15 @@
 ---
 description: >-
-  Understanding poverty and attainment across the Northern Alliance region of
-  Scotland
+  Understanding attainment through the lens of poverty across the Northern
+  Alliance region of Scotland.
 cover: >-
   https://images.unsplash.com/photo-1495446815901-a7297e633e8d?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxib29rc3xlbnwwfHx8fDE2MzQxODYwOTM&ixlib=rb-1.2.1&q=85
 coverY: 0
 ---
 
-# The Northern Alliance Project
+# 📖 Enabling Action for Attainment
+
+
 
 {% hint style="warning" %}
 #### Changes Under Progress ! <a href="changes-under-progress" id="changes-under-progress"></a>

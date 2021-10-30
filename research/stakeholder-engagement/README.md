@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Stakeholder Engagement
+# 👥 Stakeholder Engagement
 
 ### Background
 
