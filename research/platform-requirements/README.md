@@ -4,11 +4,9 @@ coverY: 0
 
 # 🧱 Platform Requirements
 
-### Background
-
 Through **Stakeholder Engagement** and **Existing Tools Review** , we were able to clearly understand the following details about the data and digital tools ecosystem of the Northern Alliance region of Scotland.
 
-* Experience of key staeholders in the existing ecosystem of data and tools, the challenges faced by them while engaging with the information and systems in the current form.
+* Experience of key stakeholders in the existing ecosystem of data and tools, the challenges faced by them while engaging with the information and systems in the current form.
 
 {% content-ref url="../existing-tools-review/user-feedback.md" %}
 [user-feedback.md](../existing-tools-review/user-feedback.md)

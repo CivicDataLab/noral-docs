@@ -14,7 +14,7 @@ These design audits gave us various insights into the users' expectations, their
 
 1. [Insight](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/design-audit/tools/001-Insight.md)
 2. [SIMD](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/design-audit/tools/002-SIMD.md)
-3. [BGE Tool Kit](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/design-audit/tools/003-BGE-Toolkit.md)
+3. [BGE Toolkit](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/design-audit/tools/003-BGE-Toolkit.md)
 4. [NIF Interactive Evidence Report](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/design-audit/tools/004-NIF-Interactive-Evidence-Report.md)
 5. [SEEMiS](https://github.com/The-Data-for-Children-Collaborative/noral-design-research/blob/main/design-audit/tools/005-SEEMiS.md)
 
