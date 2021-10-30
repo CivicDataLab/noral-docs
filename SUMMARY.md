@@ -5,7 +5,7 @@
 
 ## Introduction <a href="intro" id="intro"></a>
 
-* [Context](intro/context/README.md)
+* [🧩 Context](intro/context/README.md)
   * [Background](intro/context/landscape.md)
   * [Collaboration](intro/context/collaboration.md)
 * [🔓 Approach](intro/approach.md)
@@ -26,10 +26,10 @@
 ## Solution
 
 * [👤 Personas and Journeys](solution/personas-and-journeys.md)
-* [Blueprint](solution/blueprint.md)
+* [💡 Blueprint](solution/blueprint.md)
 * [Wireframes](solution/wireframes/README.md)
   * [Feedback](solution/wireframes/feedback.md)
-* [Platform Architecture](solution/platform-architecture.md)
+* [🔩 Platform Architecture](solution/platform-architecture.md)
 
 ## Way Forward
 
@@ -38,7 +38,7 @@
 
 ## Resources
 
-* [Platforms](resources/platforms.md)
+* [🖥 Platforms](resources/platforms.md)
 * [GitHub](https://github.com/The-Data-for-Children-Collaborative/noral-project)
 * [Slides](https://noral.netlify.app)
-* [License](resources/license.md)
+* [© License](resources/license.md)

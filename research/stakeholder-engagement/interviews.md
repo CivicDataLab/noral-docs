@@ -1,32 +1,32 @@
 # Interviews
 
-The main objective of Individual Stakeholder Interviews is to understand the role of access to information in solving poverty and attainment related gaps across the Northern Alliance Region of Scotland. These interviews focused on details related to individual stakeholder role & responsibilities, Stakeholder interaction with data or data sets, Challenges faced in the current system or data sets, Aspiration of the new platform and what all it should cover.
+Through the survey and workshop, we were able to collect intergral information about the current landscape and how stakeholders are interacting with it. With the personal interviews, we wanted to dive deeper into the roles and responsiblities of individuals, the role existing data and system plays in their workflows, and what would an ideal system look like for them.
 
-**Key areas of discussion with the Stakeholders:**
+The rationale for taking such an approach was to understand how a new solution can fit into the existing workflows of the key stakeholders and simplify it, rather than expecting them to modify their approaches which have been cultivated and refined over time.
+
+### **Script**
+
+The following were the key areas of discussion with the Stakeholders during the interviews:
 
 * Role of the stakeholder (What is the stakeholder accountable for in the ecosystem)
-* What does a working day look like for the stakeholder? (What all activity he /she conducts or is involved in)
+* What does a working day look like for the stakeholder? (What all activity they conduct or are involved in)
 * What kind of data sets does the stakeholder interact with? (Names and description of data sets)
 * How is that data beneficial for the stakeholder? (What purpose does the data solve and how does the stakeholder take corrective action based on it)
 * What all challenges are faced by the stakeholder with respect to the ecosystem, frameworks or data?
 * Dream and aspiration with respect to data and ecosystem (Expectations)
 
-> The final interview script can be accessed [here](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/03-stakeholder-interviews/interview-script.md).
+> The final script for the personal interviews can be accessed [here](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/03-stakeholder-interviews/interview-script.md).
 
 ### Output
 
-All the information from the interviews was synthesied and captured in Stakeholder Insight Maps capturing the roles and responsiblities, type of information they ineract with, challenges faces and aspirations of a dram ecosystem.
+All the information from the interviews was synthesied and captured in Stakeholder Insight Maps capturing the **roles and responsiblities**, **type of information** they ineract with, **challenges faced** and** aspirations of a dream ecosystem**.
 
-![](../../.gitbook/assets/user-insights.png)
+![Stakehol](../../.gitbook/assets/user-insights.png)
 
-These outputs informed the creation of **user personas**, **journeys **and** wireframes** for primary and secondary stakeholders.
+These interviews informed the creation of **user personas**, **journeys **for all types of primary and secondary stakeholders. The personas and journeys were then used to envision a possible solution for the needs and aspirations of the stakeholders.
 
 {% content-ref url="../../solution/personas-and-journeys.md" %}
 [personas-and-journeys.md](../../solution/personas-and-journeys.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../solution/wireframes/" %}
-[wireframes](../../solution/wireframes/)
 {% endcontent-ref %}
 
 ### Methodology

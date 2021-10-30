@@ -1,12 +1,12 @@
 # Workshop
 
-Following the initial [Stakeholder Survey](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/01-stakeholder-survey), a workshop was conducted with the key stakeholders to get inputs on the following fronts:
+Following the initial [Stakeholder Survey](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/01-stakeholder-survey), a workshop was conducted with the key stakeholders to inform our knowledge on the following fronts:
 
-* The data tools and resources most frequently used by Stakeholders and their experiences with the same.
-* The challenges faced by them while engaging with the information and systems in the current form.
-* Their inputs on certain possible features for a new solution and how would like to to engage with the same.
+1. The data, tools and resources most frequently accessed by the stakeholders and their experiences with the same.
+2. The challenges faced by them while engaging with the existing sources of information and systems in the current form.
+3. Their inputs on certain possible features for a new solution and how would like to to engage with these features.
 
-The workshop objectives and format can be seen [here](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/02-stakeholder-workshop/02-01-workshop.md) , and the template for the workshop MURAL boards can be found [here](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/02-stakeholder-workshop/02-02-template.pdf).
+> Further details about the key objectives of the workshop, its format, participants and more can be found at the following [link](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/02-stakeholder-workshop/02-01-workshop.md).&#x20;
 
 ### Summary
 
@@ -26,7 +26,7 @@ All the findings from the section of the workshop was consolidated along with an
 
 #### Feature Feedback
 
-The other part of the workshop focused on better understanding the challenges the users are facing and how would they like to solve for the same. The users were asked to share inputs certain suggested features and the what they would like to see as the solutions.
+The second part of the workshop focused on better understanding the challenges the users are facing and how would they like to solve for the same. The users were asked to share inputs certain suggested features and the what they would like to see as the solutions.
 
 The features discussed were as follows:
 
@@ -37,7 +37,17 @@ The features discussed were as follows:
 * [Data Stories](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/02-stakeholder-workshop/feature-feedback/005-data-stories.md) : Ability to showcase specific analyses, reports, stories, etc. for various use cases with the methodology and the data made accesible for further research.
 * [Capacity Building](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/02-stakeholder-workshop/feature-feedback/006-capacity-building.md) : Enabling key stakeholders and community at large to better adopt / use the tool and technologies, through various resources embedded into the platform.
 
-The feedback for each individual feature has been consolidated [here](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/tree/main/research/02-stakeholder-workshop/feature-feedback). You can also go through the raw workshop outputs bucket by themes [here](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/02-stakeholder-workshop/02-03-feature-feedback.pdf). This feedback was used to explore the possible tools and technologies that can be used to build the final solution.
+The raw outputs from the workshop [thematically bucketed](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/02-stakeholder-workshop/02-03-feature-feedback.pdf) through the **Affinity Mapping** exercise.
+
+> Affinity Diagrams can help you bundle and cluster large bodies of information, facts, ethnographic research, ideas from brainstorms, user opinions, user needs, insights, design issues, etc. This method will help you name, rank and understand relations between groups of information.&#x20;
+>
+> For this reason, this method is also known as “Space Saturate and Group”. The term “saturate” relates to the method in which everyone covers or saturates the “space” with images and notes, in order to create a wall of information, to inform, and start “grouping” the following problem-defining process.&#x20;
+>
+> This is a great method which can, if you follow the step-by-step process which we’ve described, surprisingly and straightforwardly create an overview and synthesize your findings. It’s important that you remember to sum up the major insights, user needs, pain points, gaps, etc.
+
+![Affinity Mapping Exercise](https://camo.githubusercontent.com/8fe611916023105982ef2a9c7dee686174c0ef04ce46e60bafc43b846c29403f/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f4646624c4969745166436a71734f75597a6a792d6c57624f4c36687848506e526c4f517142584143715f47794331512d7731662d4a6a395054685063633975396534592d4778795f6a5a47616d7a3346794d4a704c52336c347966614c4e5a6c432d4d4474335f7530786a5a4c384c2d6f4e502d353534776c43775055673d7330)
+
+The feedback for each individual feature has been consolidated [here](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/tree/main/research/02-stakeholder-workshop/feature-feedback). This feedback was used to explore the possible tools and technologies that can be used to build the final solution.
 
 {% content-ref url="../platform-requirements/features.md" %}
 [features.md](../platform-requirements/features.md)
@@ -47,4 +57,4 @@ The feedback for each individual feature has been consolidated [here](https://gi
 
 * The workshop was conducted using collaboration tool, [MURAL](https://www.mural.co).
 * The stakeholders were divided in groups of 3-5 with varying roles and experiences.
-* Each group was moderated by a project team member to conduct the workshop and take notes.
+* Each group was moderated by a project team member to [conduct the workshop](https://github.com/The-Data-for-Children-Collaborative/noral-user-research/blob/main/research/02-stakeholder-workshop/02-02-template.pdf).
