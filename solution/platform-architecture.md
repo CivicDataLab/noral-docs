@@ -7,6 +7,11 @@ coverY: 0
 The techology arrchitecture of the platform has been driven by the understanding through the following threads:
 
 * Intention and Objective of the suggested new platform and how it's functionalities have been inspired by the landscape of existing tools.
+
+{% content-ref url="blueprint.md" %}
+[blueprint.md](blueprint.md)
+{% endcontent-ref %}
+
 * Possible journeys various stakeholders might take through the platform and how they will engage with various pieces of the solution.
 
 {% content-ref url="personas-and-journeys.md" %}

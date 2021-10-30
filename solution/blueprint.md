@@ -1,12 +1,12 @@
 ---
+cover: >-
+  https://images.unsplash.com/photo-1559644705-15d30e582900?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw4fHxwYXR0ZXJufGVufDB8fHx8MTYzNTYwNzczNQ&ixlib=rb-1.2.1&q=85
 coverY: 0
 ---
 
 # 💡 Blueprint
 
-### Synthesizing
-
-The interviews helped us understand everyday processes better and generate User Personas and Journeys for key stakeholders articulating your requirements from the new solution. Information generated from these interviews spoke more about the individual people's roles and responsibilities along with their challenges and aspirations in the system.
+The interviews helped us understand everyday processes of the key stakeholders better and generate User Personas and Journeys articulating your requirements from the new solution. Information generated from these interviews spoke about the their roles and responsibilities along with their challenges and aspirations in the system.
 
 {% content-ref url="personas-and-journeys.md" %}
 [personas-and-journeys.md](personas-and-journeys.md)
@@ -48,9 +48,9 @@ The comparative analysis of the existing platforms to envision a new solution ca
 
 During the stakeholderinterviews every stakeholder shared their narrative about the platform they have worked with and platform that they aspire to work with.&#x20;
 
-![Most frequently occurring themes for the new solution envisioned.](https://lh3.googleusercontent.com/d5usXpkHRdlJg06JhcWVF-nLyTWUM8OPbLsFq0oVMHFIa32hmAnnWDsk42FGd-JQBDxVMMt4cKuecak\_4iJQmyBgVFmw9F62wKiG7PmsMKpN3DQ6-4wDDfCJmxOXOk0LeBrEWCU)
-
 Few terms that constantly came forward as their aspirations like ‘One Stop Shop, Data literacy for all or Data standardization etc.’ These suggestions we have picked and have tried working further which are included as our features or functions in the new solution.
+
+![Most frequently occurring themes for the new solution envisioned.](https://lh3.googleusercontent.com/d5usXpkHRdlJg06JhcWVF-nLyTWUM8OPbLsFq0oVMHFIa32hmAnnWDsk42FGd-JQBDxVMMt4cKuecak\_4iJQmyBgVFmw9F62wKiG7PmsMKpN3DQ6-4wDDfCJmxOXOk0LeBrEWCU)
 
 ### Problem Statement
 
@@ -82,11 +82,9 @@ The major goal here is to enable key stakeholders to use data in understanding t
 
 The problem can be addressed by leveraging a platform that caters to individual needs of the stakeholders and empowers them to share their learnings.
 
-By defining the problem statement it helped us to define the purpose and objective of the larger context for which we are solving the problem for. It also helped in scoping the future path to build the narrative for the proposed new solution which we will see below.
-
 ### Scoping
 
-Through these exercises, we were able to identifythe following key areas for the envisioned solution.
+By defining the problem statement it helped us to define the purpose and objective of the larger context for which we are solving the problem for. It also helped in scoping the future path to build the narrative for the proposed new solution which we will see below. Through these exercises, we were able to identify the following key areas for the envisioned solution.
 
 ![](https://lh4.googleusercontent.com/kPXv7uj3Ab0nJdZOvYizk\_nqmMAQxUGG4tWkdDj3T7C52yvg3PK5b1hmaW5xUgD9pN82MiDy3jyqtXBLRBDNmagXJ-tMOUzBSAHzzRaTbb4jpnJ\_dUkg5tIP3nTrgw)
 

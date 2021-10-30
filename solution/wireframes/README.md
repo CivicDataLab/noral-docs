@@ -1,4 +1,6 @@
 ---
+cover: >-
+  https://images.unsplash.com/photo-1605106715994-18d3fecffb98?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxwYXR0ZXJuc3xlbnwwfHx8fDE2MzU2MDc3MTc&ixlib=rb-1.2.1&q=85
 coverY: 0
 ---
 
@@ -8,11 +10,11 @@ Keeping in mind all the insights gained from the several stakeholder engagements
 
 ![Wireframes](../../.gitbook/assets/wireframes.png)
 
-### What are wireframes?
+### What are Wireframes?
 
 A wireframe is a schematic or blueprint that is useful for helping you, or your stakeholders to  think, communicate and review  about the structure of the platform you're building.
 
-### Why are we showcasing wireframes?
+### Why are we Showcasing Wireframes?
 
 * **Wireframes make it clear that this is not the final design** : No one could mistake a wireframe for the final look and feel of your application. Low-fidelity and few colors force you to focus on structure over details. There will be lots of time for visual design once the structure is finalized.
 * **Wireframes convey that “this is all up for discussion”** : The rough feel encourages discussion. We call it a look no one is afraid to criticize. Wireframes are really quick to make, so don't be shy with giving feedback! Each screen probably only took a few minutes to make; don't worry, their author won't mind doing them over from scratch. What matters the most at this point is the final ease of use, so going through a few iterations is normal and expected.
