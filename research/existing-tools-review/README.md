@@ -4,11 +4,9 @@ coverY: 0
 
 # ⚙ Existing Tools Review
 
-### Background
+Previously, we looked at the feedback from the users about their experiences, needs and aspirations. Another important aspect of the ecosystem is the tools they are engaging with get access to data that is useful for them. These tools are driven by data, and play a key role to help stakeholders identify, understand, and achieve this larger goal of improving attainment and reducing socioeconomic gaps across the region.&#x20;
 
-The Scottish Government’s ambition is for Scotland to be the best place to grow up. To achieve that it is required to raise attainment and reduce educational inequity for all of Scotland’s children and young people. The Scottish education system works well for most children and young people, who make good progress in their learning. However, there is still a gap between the least and most deprived areas in terms of attainment and socioeconomic status.
-
-The data and the tools are driven by data play a key role to help the Scottish education system identify, understand, and achieve this larger goal of reducing the attainment and socioeconomics gap. These available tools are used by major stakeholders and assist them to create a better school improvement framework and also support them to give the contextual analysis.
+As a part of the research exercise, we are thoroughly examining the existings tools and platform used the stakeholders and trying to envision what the new solution could look like.
 
 ### Framework
 
@@ -16,7 +14,7 @@ To solve for the challenges faced and understand the experiences of key stakhold
 
 #### User Feedback
 
-The stakeholders were asked to share the most frequently used tools and share their experiences around the same.
+The stakeholders were asked to share the most frequently used tools and share their experiences around the same. What they like, what they dislike, and what they would like to improve.
 
 {% content-ref url="user-feedback.md" %}
 [user-feedback.md](user-feedback.md)
@@ -24,7 +22,7 @@ The stakeholders were asked to share the most frequently used tools and share th
 
 #### Design Audit
 
-A comprehensive design audit was conducated for the five most frequiently used tools, to thoroughly examine all elements of a digital product based on their business objectives, metrics, and usability standards. Then listing down the areas of improvement and recommend solutions to improve the overall experience.
+A comprehensive design audit was conducated for the five most frequiently used tools, thoroughly examine all elements of a digital product based on their objectives and usability standards. Then listing down the areas of improvement and recommend solutions to improve the overall experience.
 
 {% content-ref url="design-audit.md" %}
 [design-audit.md](design-audit.md)

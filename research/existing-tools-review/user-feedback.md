@@ -12,6 +12,8 @@ As one of the key exerices of the workshop, the stakeholders were asked to share
 
 ### Summary
 
+These points across various tools were summarised into key recurring themes around the tools.
+
 #### Usability Issues
 
 * Existing tools are having common usability issues since most of them were designed a decade ago. Users find it slightly tough to navigate through the different functionalities because they are outdated in a way. It is because users spend most of their time on other sites and they prefer a website or tool to work the same way as all the other sites they already know.
@@ -43,3 +45,9 @@ As one of the key exerices of the workshop, the stakeholders were asked to share
 * Integration with other platforms like the BGE tool.
 * Ability to navigate from map view to spreadsheet.
 * Ability to download or print the analysis reports.
+
+These inputs were taken into conisderation when defining the features of the new platform and designing how the features will operate in everyday use.
+
+{% content-ref url="../../solution/blueprint.md" %}
+[blueprint.md](../../solution/blueprint.md)
+{% endcontent-ref %}
