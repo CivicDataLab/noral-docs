@@ -50,8 +50,8 @@
 
 ### Resources
 
-{% content-ref url="../resources/platforms.md" %}
-[platforms.md](../resources/platforms.md)
+{% content-ref url="../resources/platforms/" %}
+[platforms](../resources/platforms/)
 {% endcontent-ref %}
 
 {% content-ref url="../resources/license.md" %}

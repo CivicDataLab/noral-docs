@@ -27,7 +27,7 @@
 
 * [👤 Personas and Journeys](solution/personas-and-journeys.md)
 * [💡 Blueprint](solution/blueprint.md)
-* [Wireframes](solution/wireframes/README.md)
+* [📑 Wireframes](solution/wireframes/README.md)
   * [Feedback](solution/wireframes/feedback.md)
 * [🔩 Platform Architecture](solution/platform-architecture.md)
 
@@ -38,7 +38,6 @@
 
 ## Resources
 
-* [🖥 Platforms](resources/platforms.md)
-* [GitHub](https://github.com/The-Data-for-Children-Collaborative/noral-project)
-* [Slides](https://noral.netlify.app)
+* [🖥 Platforms](resources/platforms/README.md)
+  * [GitHub](https://github.com/The-Data-for-Children-Collaborative/noral-project)
 * [© License](resources/license.md)

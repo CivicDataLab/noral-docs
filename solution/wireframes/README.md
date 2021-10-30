@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Wireframes
+# 📑 Wireframes
 
 Keeping in mind all the insights gained from the several stakeholder engagements we have also generated preliminary wireframes with the help of user flows which showcases the first cut trailer of how the platform will shape for each user.&#x20;
 
