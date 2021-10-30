@@ -27,3 +27,11 @@ A comprehensive design audit was conducated for the five most frequiently used t
 {% content-ref url="design-audit.md" %}
 [design-audit.md](design-audit.md)
 {% endcontent-ref %}
+
+### Solution
+
+The insights from the user feedback and design audit of the existing tools, along with the aspirations of the users informed the direction of the new suggested solution. These inputs were taken to design the wireframes of the envisioned solution.
+
+{% content-ref url="../../solution/wireframes/" %}
+[wireframes](../../solution/wireframes/)
+{% endcontent-ref %}
