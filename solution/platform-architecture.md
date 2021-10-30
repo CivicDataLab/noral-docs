@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Platform Architecture
+# 🔩 Platform Architecture
 
 The techology arrchitecture of the platform has been driven by the understanding through the following threads:
 
