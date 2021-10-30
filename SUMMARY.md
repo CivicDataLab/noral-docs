@@ -5,7 +5,7 @@
 
 ## Introduction <a href="intro" id="intro"></a>
 
-* [🧩 Context](intro/context/README.md)
+* [🧊 Context](intro/context/README.md)
   * [Background](intro/context/landscape.md)
   * [Collaboration](intro/context/collaboration.md)
 * [🔓 Approach](intro/approach.md)

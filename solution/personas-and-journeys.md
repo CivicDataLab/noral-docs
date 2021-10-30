@@ -6,9 +6,9 @@ coverY: 0
 
 ### Personas
 
-Data generated from key stakeholder during interviews highlighted their individual people roles and responsibilities along with their challenges and aspirations. The data gathered was clustered into inputs and insights to form a set of target primary and secondary stakeholder requirements.
+Data generated from key stakeholder during interviews highlighted their individual roles and responsibilities along with their challenges and aspirations. The data gathered was clustered into inputs and insights to form a set of target primary and secondary stakeholder requirements.
 
-Creating personas will help to understand users' needs, experiences, behaviours and goals. It can help to recognise that different people have different needs and expectations, and it can also help to identify with the user you're designing for. Personas can be supported with Stakeholder Insight Map generated from Stakeholder Interviews.
+Creating personas helps to understand users' needs, experiences, behaviours and goals. It can help to recognise that different people have different needs and expectations, and it can also help to identify with the user you're designing for. Personas can be supported with Stakeholder Insight Map generated from Stakeholder Interviews.
 
 {% content-ref url="../research/stakeholder-engagement/interviews.md" %}
 [interviews.md](../research/stakeholder-engagement/interviews.md)
@@ -33,27 +33,23 @@ The personas contain the following information about the stakeholders:
 
 ### Journeys
 
-Data generated from Stakeholder Surveys and Workshops primarily addressed Stakeholder preferences in terms of platform use and feature feedback. Preferences needed a prioritization framework to develop the user journeys for each stakeholder.
-
-Following is the applicable prioritization framework used.
+Data generated from Stakeholder Surveys and Workshops primarily addressed Stakeholder preferences in terms of platform use and feature feedback. These references needed a prioritization framework to develop the user journeys for each stakeholder.
 
 #### **MosCoW Prioritization Framework**
 
-MoSCoW prioritization, also known as the MoSCoW method or MoSCoW analysis, is a popular prioritization technique for managing requirements. The method is commonly used to help key stakeholders understand the significance of initiatives in a specific release. MoSCoW stands for four different categories of initiatives: must-haves, should-haves, could-haves, and will not have. Sometimes, the “W” in MoSCoW is used to stand for “wish” instead of “will not have right now.”
+MoSCoW prioritization, also known as the MoSCoW method or MoSCoW analysis, is a popular prioritization technique for managing requirements. The method is commonly used to help key stakeholders understand the significance of initiatives in a specific release. MoSCoW stands for four different categories of initiatives: must-haves, should-haves, could-haves, and will not have.&#x20;
 
-**Why MosCoW Prioritization Framework?**
-
-MoSCoW prioritization, will help in feature prioritization for the platform. Features can be prioritized for each stakeholder based on their requirements and needs. This prioritization will be developed based on the qualitative comments /resources received from the interviews and workshops.
+MoSCoW prioritization, helps in feature prioritization for the platform. Features can be prioritized for each stakeholder based on their requirements and needs. This prioritization will be developed based on the qualitative comments / resources received from the interviews and workshops.
 
 ![](https://camo.githubusercontent.com/4f9aeb31fe0a87259e84d676ca06682fde75322eab7cdd284af976de3c66da81/68747470733a2f2f6c68342e676f6f676c6575736572636f6e74656e742e636f6d2f4b67544951783849455041787551467562326778496f6c626662474865435865675a59304746717232796855354c756d35316f35796675584758676c6b6f364c5f674d3672354c545169317a5f7337766c51707748654e78524836637734496a55364f73633962617378386937464c69317544326b554d374c32746b49513d7330)
 
 ![Prioritizartion Framework](https://camo.githubusercontent.com/0c3995e0ae9827abe88aaf973633458a0727f635245cdf6ab95998840077e581/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f6f425f7930426c365a6836596a3265486b68706c626467694c57444f47694c454136795035485273367465646d48497a694a7370712d614157425957717a444641656d6c5a456a655030494a565f5f693879334c2d497575495f7666614c31706634385045584a5978365f335a686c6f7478784e49496c6c44664f5261413d7330)
 
-Based on the Stakeholder Prioritization Framework and Personas we develop the user journeys maps for each stakeholder.
+Based on these Stakeholder Prioritization Framework and User Personas we develop the User Journeys maps for each stakeholder.
 
 A **User Journey Map** (also known as a customer journey map) is a diagram that visually illustrates the user flow through your platform, starting with initial contact or discovery, and continuing through the process of engagement into long-term loyalty and advocacy.
 
-**Advantages **: The process of mapping their journey encourages and reminds them to consider the entire user experience: their feelings, questions and needs while they interact with the platform. It’s used for understanding and addressing customer needs and pain points. What is the user thinking about and what are they hoping to achieve?
+The process of mapping their journey encourages and reminds them to consider the entire user experience: their feelings, questions and needs while they interact with the platform. It’s used for understanding and addressing customer needs and pain points. What is the user thinking about and what are they hoping to achieve?
 
 ### Outputs
 
