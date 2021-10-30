@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📖 Enabling Action for Attainment](README.md)
+* [📖 Democratising Action for Attainment](README.md)
   * [Table of Contents](master/table-of-contents.md)
 
 ## Introduction <a href="intro" id="intro"></a>
