@@ -1,5 +1,7 @@
 ---
 description: The problem of too much data, and too little context.
+cover: ../../.gitbook/assets/Cover Page-1.png
+coverY: 0
 ---
 
 # 🧊 Context
