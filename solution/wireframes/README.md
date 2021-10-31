@@ -6,7 +6,7 @@ coverY: 0
 
 # 📑 Wireframes
 
-Keeping in mind all the insights gained from the several stakeholder engagements we have also generated preliminary wireframes with the help of user flows which showcases the first cut trailer of how the platform will shape for each user.&#x20;
+Keeping in mind all the insights we have gained from the several stakeholder engagements, we have generated the preliminary wireframes for the suggested platform. With the help of user flows we can envision, how the platform will shape for each stakeholder.&#x20;
 
 ![Wireframes](../../.gitbook/assets/wireframes.png)
 
@@ -22,9 +22,15 @@ A wireframe is a schematic or blueprint that is useful for helping you, or your 
 
 ### Suggested Wireframes
 
+{% hint style="warning" %}
+Links to live demo will be updated in the coming days.
+{% endhint %}
+
+#### By Stakeholder
+
 {% tabs %}
 {% tab title="Attainment Advisor" %}
-
+![](../../.gitbook/assets/wireframes-attainment-advisors.png)
 {% endtab %}
 
 {% tab title="Educational Psychologist" %}
@@ -32,10 +38,26 @@ A wireframe is a schematic or blueprint that is useful for helping you, or your 
 {% endtab %}
 
 {% tab title="Head Teacher" %}
-
+![](../../.gitbook/assets/wireframes-head-teacher.png)
 {% endtab %}
 
 {% tab title="Quality Improvement Manager" %}
+![](../../.gitbook/assets/wireframes-qim.png)
+{% endtab %}
+{% endtabs %}
 
+#### By Function
+
+{% hint style="warning" %}
+Links to live demo will be updated in the coming days.
+{% endhint %}
+
+{% tabs %}
+{% tab title="Comparator" %}
+![](../../.gitbook/assets/wireframes-comparator.png)
+{% endtab %}
+
+{% tab title="Explorer and Stories" %}
+![](../../.gitbook/assets/wireframes-data-explorer.png)
 {% endtab %}
 {% endtabs %}

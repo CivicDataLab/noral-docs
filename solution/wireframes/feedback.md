@@ -47,10 +47,11 @@ Qualitative feedback received from the stakeholders will help the designers real
 * Follow the step by step walkthrough of each page to understand the details.
 * Make a note of your views and suggestions while exploring the wireframes
 
-|                    |                              |
-| ------------------ | ---------------------------- |
-| Attainment Advisor | Educational Psychologist     |
-| Head Teacher       | Quality Improvement Officers |
+| `Attainment Advisor` |   `Educational Psychologist`   |
+| :------------------: | :----------------------------: |
+|    `Head Teacher`    | `Quality Improvement Officers` |
+|          `-`         |               `-`              |
+|     `Comparator`     |     `Explorer and Stories`     |
 
 {% hint style="info" %}
 Links to be added soon.
