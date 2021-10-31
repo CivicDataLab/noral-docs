@@ -2,9 +2,8 @@
 description: >-
   Understanding attainment through the lens of poverty across the Northern
   Alliance region of Scotland.
-cover: >-
-  https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxib29rc3xlbnwwfHx8fDE2MzU2MDc4Mzg&ixlib=rb-1.2.1&q=85
-coverY: -41.887829912023456
+cover: .gitbook/assets/Cover Page-1 (1).png
+coverY: 15.5440414507772
 ---
 
 # 📖 Democratising Action for Attainment
