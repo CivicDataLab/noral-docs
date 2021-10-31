@@ -17,6 +17,8 @@ Based on the [feeback](https://github.com/The-Data-for-Children-Collaborative/no
 | [Data Stories](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/data-stories)           | Capability to use existing data and visualisations, and stitch a naarative around the same which can be published on the platform.                           | Ghost                                                                                                                                                                                                                                                 |
 | [Capacity Building](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/tree/main/capacity-building) | Ability to collaborate with other stakholders on the platform, share your findings and enable others to build their knowledge.                               | [Discourse](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research/blob/main/capacity-building/004-discourse.md)                                                                                                                  |
 
+> The entire research process and its outcomes to identify the toolkit can be found [here](https://github.com/The-Data-for-Children-Collaborative/noral-tech-research).
+
 ### Way Forward
 
 Using the requirements set for the features by the key stakeholders and the tools seclected to achieve the same, a platform architecture was devised for the new proposed solution.

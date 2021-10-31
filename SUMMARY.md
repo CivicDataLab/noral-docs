@@ -33,8 +33,7 @@
 
 ## Way Forward
 
-* [🏗 Building Blocks](way-forward/building-blocks/README.md)
-  * [Requirements](way-forward/building-blocks/requirements.md)
+* [🏗 Building Blocks](way-forward/building-blocks.md)
 
 ## Resources
 

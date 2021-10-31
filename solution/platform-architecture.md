@@ -4,7 +4,7 @@ coverY: 0
 
 # 🔩 Platform Architecture
 
-The techology arrchitecture of the platform has been driven by the understanding through the following threads:
+The techology architecture for the suggested platform has been driven by the understanding through the following threads:
 
 * Intention and Objective of the suggested new platform and how it's functionalities have been inspired by the landscape of existing tools.
 

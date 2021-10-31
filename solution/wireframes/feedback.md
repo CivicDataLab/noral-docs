@@ -2,7 +2,7 @@
 
 Stakeholder feedback is an integral part of our research process. Good designs get buy-in and feedback from stakeholders throughout the design’s evolution. This means getting feedback early with the  concepts, then later on the execution of that idea, and then finally on the nitty-gritty details before handoff.
 
-#### Step 1 : User Personas and Journeys
+### Step 1 : User Personas and Journeys
 
 Please go through the user personas generated for the stakeholder bucket that aligns with your current role the most.
 
@@ -61,14 +61,14 @@ Links to be added soon.
 
 Constructive feedback ensures both designer and stakeholders to continue to move forward through the design process and effectively solve the problems at hand. Below are a few of the main talking points to keep in mind when reviewing a wireframe.
 
-Aspirations - Is the information on the page aligning with the aspiration / expectation you had in your mind? Is there something on this page that you would like to add or remove?
+**Aspirations** - Is the information on the page aligning with the aspiration / expectation you had in your mind? Is there something on this page that you would like to add or remove?
 
-Page Purpose - Is the primary purpose of the page unequivocal and clear?
+**Page Purpose** - Is the primary purpose of the page unequivocal and clear?
 
-Navigation - How is your experience with the navigation through the page presented? Is it smooth or confusing? Are there too many steps to any certain actions? Please feel free to put down your thoughts.
+**Navigation** - How is your experience with the navigation through the page presented? Is it smooth or confusing? Are there too many steps to any certain actions? Please feel free to put down your thoughts.
 
-Content - Does the content make sense to you and is grouped correctly with surrounding information? Would you like to add any further information to make the page more explanatory?
+**Content** - Does the content make sense to you and is grouped correctly with surrounding information? Would you like to add any further information to make the page more explanatory?
 
-Layout - Are you comfortable with the information flow on the page, with respect to spacing, readability and actionability of the information?
+**Layout** - Are you comfortable with the information flow on the page, with respect to spacing, readability and actionability of the information?
 
 Is there anything else you’d like to share?

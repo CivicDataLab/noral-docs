@@ -44,8 +44,8 @@
 
 ### Way Forward
 
-{% content-ref url="../way-forward/building-blocks/" %}
-[building-blocks](../way-forward/building-blocks/)
+{% content-ref url="../way-forward/building-blocks.md" %}
+[building-blocks.md](../way-forward/building-blocks.md)
 {% endcontent-ref %}
 
 ### Resources
