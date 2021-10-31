@@ -2,8 +2,8 @@
 
 ### Introduction
 
-{% content-ref url="../intro/context/" %}
-[context](../intro/context/)
+{% content-ref url="../intro/introduction/" %}
+[introduction](../intro/introduction/)
 {% endcontent-ref %}
 
 {% content-ref url="../intro/approach.md" %}
