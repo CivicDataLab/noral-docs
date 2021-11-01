@@ -11,8 +11,8 @@ coverY: 0
 ### Team
 
 * Akhil Sagiraju ; `Developer`
-* Jatin Baghel ; `Product Designer`
-* Nupura Gawde ; `Design Researcher`
+* Jatin Baghel ; `Designer`
+* Nupura Gawde ; `Researcher`
 * Deepthi Chand ; `Techology Lead`
 * Arpit Arora ; `Project Lead`
 

@@ -50,10 +50,6 @@
 
 ### Resources
 
-{% content-ref url="../solution/platform-architecture/platforms.md" %}
-[platforms.md](../solution/platform-architecture/platforms.md)
-{% endcontent-ref %}
-
 {% content-ref url="../resources/license.md" %}
 [license.md](../resources/license.md)
 {% endcontent-ref %}
