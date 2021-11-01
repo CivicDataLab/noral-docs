@@ -2,7 +2,7 @@
 description: >-
   Understanding attainment through the lens of poverty across the Northern
   Alliance region of Scotland.
-cover: .gitbook/assets/Platform - Cover Page.png
+cover: .gitbook/assets/Platform - Cover Page (1).png
 coverY: 0
 ---
 
