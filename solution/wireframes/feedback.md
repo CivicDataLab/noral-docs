@@ -1,5 +1,9 @@
 # Feedback
 
+{% hint style="info" %}
+A feedback form (shared below) will be released to the key stakeholders shortly to collected inputs and identify any areas of improvment to take the work forward in the next phase.
+{% endhint %}
+
 Stakeholder feedback is an integral part of our research process. Good designs get buy-in and feedback from stakeholders throughout the design’s evolution. This means getting feedback early with the  concepts, then later on the execution of that idea, and then finally on the nitty-gritty details before handoff.
 
 ### Step 1 : User Personas and Journeys
