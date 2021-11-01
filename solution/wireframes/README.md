@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1605106715994-18d3fecffb98?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxwYXR0ZXJuc3xlbnwwfHx8fDE2MzU2MDc3MTc&ixlib=rb-1.2.1&q=85
+cover: ../../.gitbook/assets/Wireframes - Cover Page.png
 coverY: 0
 ---
 

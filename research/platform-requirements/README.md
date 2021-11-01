@@ -1,7 +1,6 @@
 ---
 description: Building the platform that supports the stakeholder aspirations.
-cover: >-
-  https://images.unsplash.com/photo-1605106901227-991bd663255c?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8cGF0dGVybnN8ZW58MHx8fHwxNjM1NjA3NzE3&ixlib=rb-1.2.1&q=85
+cover: ../../.gitbook/assets/Platform Requirements - Cover Page.png
 coverY: 0
 ---
 

@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1559644705-15d30e582900?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw4fHxwYXR0ZXJufGVufDB8fHx8MTYzNTYwNzczNQ&ixlib=rb-1.2.1&q=85
+cover: ../.gitbook/assets/Blueprint - Cover Page.png
 coverY: 0
 ---
 

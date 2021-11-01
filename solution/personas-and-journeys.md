@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1553532434-5ab5b6b84993?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8cGF0dGVybnxlbnwwfHx8fDE2MzU2MDc3MzU&ixlib=rb-1.2.1&q=85
+cover: ../.gitbook/assets/Journeys and Personas - Cover Page.png
 coverY: 0
 ---
 
