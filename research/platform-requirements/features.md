@@ -23,6 +23,6 @@ Based on the [feeback](https://github.com/The-Data-for-Children-Collaborative/no
 
 Using the requirements set for the features by the key stakeholders and the tools seclected to achieve the same, a platform architecture was devised for the new proposed solution.
 
-{% content-ref url="../../solution/platform-architecture.md" %}
-[platform-architecture.md](../../solution/platform-architecture.md)
+{% content-ref url="../../solution/platform-architecture/" %}
+[platform-architecture](../../solution/platform-architecture/)
 {% endcontent-ref %}

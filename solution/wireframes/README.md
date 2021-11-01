@@ -33,7 +33,9 @@ Links to live demo will be updated in the coming days.
 {% endtab %}
 
 {% tab title="Educational Psychologist" %}
-
+{% hint style="info" %}
+Currently under development. Will be updated soon.
+{% endhint %}
 {% endtab %}
 
 {% tab title="Head Teacher" %}

@@ -1,4 +1,5 @@
 ---
+cover: ../../.gitbook/assets/Platform Architercture - Cover Page.png
 coverY: 0
 ---
 
@@ -8,20 +9,20 @@ The techology architecture for the suggested platform has been driven by the und
 
 * Intention and Objective of the suggested new platform and how it's functionalities have been inspired by the landscape of existing tools.
 
-{% content-ref url="blueprint.md" %}
-[blueprint.md](blueprint.md)
+{% content-ref url="../blueprint.md" %}
+[blueprint.md](../blueprint.md)
 {% endcontent-ref %}
 
 * Possible journeys various stakeholders might take through the platform and how they will engage with various pieces of the solution.
 
-{% content-ref url="personas-and-journeys.md" %}
-[personas-and-journeys.md](personas-and-journeys.md)
+{% content-ref url="../personas-and-journeys.md" %}
+[personas-and-journeys.md](../personas-and-journeys.md)
 {% endcontent-ref %}
 
 * The features of individual pages of the platforms, the challenges they are addressing and the ways a user can manouver through the information.
 
-{% content-ref url="wireframes/" %}
-[wireframes](wireframes/)
+{% content-ref url="../wireframes/" %}
+[wireframes](../wireframes/)
 {% endcontent-ref %}
 
 Based on these inputs, the architecture has four basic components:
@@ -31,7 +32,7 @@ Based on these inputs, the architecture has four basic components:
 * User Facing Portals
 * Monitoring and Analysis
 
-![Architecture](../.gitbook/assets/platform-architecture.png)
+![Architecture](../../.gitbook/assets/platform-architecture.png)
 
 > **`Suggested Stack`**
 
@@ -45,7 +46,7 @@ Based on these inputs, the architecture has four basic components:
 
 #### Data Sourcing
 
-![Data Sourcing](../.gitbook/assets/data-source.png)
+![Data Sourcing](../../.gitbook/assets/data-source.png)
 
 Based on the requirments of the stakeholders from a new and the possible datasets in scope identified by the University of Strathclyde through their research, the system would support sourcing of data from three different processes:
 
@@ -55,7 +56,7 @@ Based on the requirments of the stakeholders from a new and the possible dataset
 
 #### Data Storage
 
-![Central Data Storage](../.gitbook/assets/central-data-storage.png)
+![Central Data Storage](../../.gitbook/assets/central-data-storage.png)
 
 To support the various sources of data, the system contains various data storage capabilities at different levels of the platform.
 
@@ -76,7 +77,7 @@ To support the various sources of data, the system contains various data storage
 
 #### User Facing Portals
 
-![User Facing Portal](../.gitbook/assets/user-facing.png)
+![User Facing Portal](../../.gitbook/assets/user-facing.png)
 
 Catering to the requirements of the key stakeholders, these are some of the components of the user facing portal:
 

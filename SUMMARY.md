@@ -29,7 +29,8 @@
 * [💡 Blueprint](solution/blueprint.md)
 * [📑 Wireframes](solution/wireframes/README.md)
   * [Feedback](solution/wireframes/feedback.md)
-* [🔩 Platform Architecture](solution/platform-architecture.md)
+* [🔩 Platform Architecture](solution/platform-architecture/README.md)
+  * [Platforms](solution/platform-architecture/platforms.md)
 
 ## Way Forward
 
@@ -37,6 +38,5 @@
 
 ## Resources
 
-* [🖥 Platforms](resources/platforms/README.md)
-  * [GitHub](https://github.com/The-Data-for-Children-Collaborative/noral-project)
+* [GitHub](https://github.com/The-Data-for-Children-Collaborative/noral-project)
 * [© License](resources/license.md)

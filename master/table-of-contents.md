@@ -38,8 +38,8 @@
 [wireframes](../solution/wireframes/)
 {% endcontent-ref %}
 
-{% content-ref url="../solution/platform-architecture.md" %}
-[platform-architecture.md](../solution/platform-architecture.md)
+{% content-ref url="../solution/platform-architecture/" %}
+[platform-architecture](../solution/platform-architecture/)
 {% endcontent-ref %}
 
 ### Way Forward
@@ -50,8 +50,8 @@
 
 ### Resources
 
-{% content-ref url="../resources/platforms/" %}
-[platforms](../resources/platforms/)
+{% content-ref url="../solution/platform-architecture/platforms.md" %}
+[platforms.md](../solution/platform-architecture/platforms.md)
 {% endcontent-ref %}
 
 {% content-ref url="../resources/license.md" %}
