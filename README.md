@@ -13,7 +13,7 @@ coverY: 0
 * Akhil Sagiraju ; `Developer`
 * Jatin Baghel ; `Designer`
 * Nupura Gawde ; `Researcher`
-* Deepthi Chand ; `Techology Lead`
+* Deepthi Chand ; `Technology Lead`
 * Arpit Arora ; `Project Lead`
 
 ### License
