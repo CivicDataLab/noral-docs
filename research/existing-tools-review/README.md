@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1532622286598-f87b4290fe22?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw4fHxncmlkfGVufDB8fHx8MTYzNTYwNzkyNg&ixlib=rb-1.2.1&q=85
+cover: ../../.gitbook/assets/Existing Tool Review - Cover Page.png
 coverY: 0
 ---
 

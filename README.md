@@ -2,17 +2,11 @@
 description: >-
   Understanding attainment through the lens of poverty across the Northern
   Alliance region of Scotland.
-cover: .gitbook/assets/Cover Page-1 (1).png
-coverY: 1.94300518134715
+cover: .gitbook/assets/Platform - Cover Page.png
+coverY: 0
 ---
 
 # 📖 Democratising Action for Attainment
-
-{% hint style="warning" %}
-#### Changes Under Progress ! <a href="changes-under-progress" id="changes-under-progress"></a>
-{% endhint %}
-
-![https://civicdatalab.in/](.gitbook/assets/cdl-logo-black.jpg)
 
 ### Team
 
@@ -32,5 +26,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 {% endcontent-ref %}
 
 ### Contact
+
+![CivicDataLab](.gitbook/assets/cdl\_logo.png)
 
 For any queries related to the work please contact [education@civicdatalab.in](mailto:education@civicdatalab.in) .

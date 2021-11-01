@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1491895200222-0fc4a4c35e18?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHxwYXR0ZXJufGVufDB8fHx8MTYzNTYwNzczNQ&ixlib=rb-1.2.1&q=85
+cover: ../../.gitbook/assets/Stakeholder Engagement - Cover Page.png
 coverY: 0
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: When too much data becomes a problem.
-cover: ../../.gitbook/assets/Cover Page-1.png
+cover: ../../.gitbook/assets/Context - Cover Page.png
 coverY: 0
 ---
 
