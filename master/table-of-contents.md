@@ -34,12 +34,12 @@
 [blueprint.md](../solution/blueprint.md)
 {% endcontent-ref %}
 
-{% content-ref url="../solution/wireframes/" %}
-[wireframes](../solution/wireframes/)
+{% content-ref url="../solution/wireframes.md" %}
+[wireframes.md](../solution/wireframes.md)
 {% endcontent-ref %}
 
-{% content-ref url="../solution/platform-architecture/" %}
-[platform-architecture](../solution/platform-architecture/)
+{% content-ref url="../solution/platform-architecture.md" %}
+[platform-architecture.md](../solution/platform-architecture.md)
 {% endcontent-ref %}
 
 ### Way Forward

@@ -34,6 +34,6 @@ Through all these interactions with the key stakeholders, we were able to collec
 
 Through the information above we Intention and Objective of the suggested new platform and how it's functionalities have been inspired by the landscape of existing tools. All this information played a key role in shaping the architecture for the solution.
 
-{% content-ref url="../../solution/platform-architecture/" %}
-[platform-architecture](../../solution/platform-architecture/)
+{% content-ref url="../../solution/platform-architecture.md" %}
+[platform-architecture.md](../../solution/platform-architecture.md)
 {% endcontent-ref %}

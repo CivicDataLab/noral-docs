@@ -27,10 +27,8 @@
 
 * [👤 Personas and Journeys](solution/personas-and-journeys.md)
 * [💡 Blueprint](solution/blueprint.md)
-* [📑 Wireframes](solution/wireframes/README.md)
-  * [Feedback](solution/wireframes/feedback.md)
-* [🔩 Platform Architecture](solution/platform-architecture/README.md)
-  * [Platforms](solution/platform-architecture/platforms.md)
+* [📑 Wireframes](solution/wireframes.md)
+* [🔩 Platform Architecture](solution/platform-architecture.md)
 
 ## Way Forward
 
