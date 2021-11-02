@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/Wireframes - Cover Page.png
+cover: ../.gitbook/assets/Wireframes - Cover Page.png
 coverY: 0
 ---
 
@@ -7,7 +7,7 @@ coverY: 0
 
 Keeping in mind all the insights we have gained from the several stakeholder engagements, we have generated the preliminary wireframes for the suggested platform. With the help of user flows we can envision, how the platform will shape for each stakeholder.&#x20;
 
-![Wireframes](../../.gitbook/assets/wireframes.png)
+![Wireframes](../.gitbook/assets/wireframes.png)
 
 ### What are Wireframes?
 
@@ -21,44 +21,40 @@ A wireframe is a schematic or blueprint that is useful for helping you, or your 
 
 ### Suggested Wireframes
 
-{% hint style="warning" %}
-Links to live demo will be updated in the coming days.
-{% endhint %}
-
-#### By Stakeholder
+#### By View
 
 {% tabs %}
-{% tab title="Attainment Advisor" %}
-![](../../.gitbook/assets/wireframes-attainment-advisors.png)
+{% tab title="Map View" %}
+> `Aimed at Attainment Advisors and Quality Improvment Teams.`
+
+![](<../.gitbook/assets/Wireframes - Map View@2x.png>)
 {% endtab %}
 
-{% tab title="Educational Psychologist" %}
-{% hint style="info" %}
-Currently under development. Will be updated soon.
-{% endhint %}
+{% tab title="Region View" %}
+> `Aimed at Quality Improvment Teams and Educational Psychologists.`
+
+![](<../.gitbook/assets/Wireframes - Region - LA View@2x.png>)
 {% endtab %}
 
-{% tab title="Head Teacher" %}
-![](../../.gitbook/assets/wireframes-head-teacher.png)
-{% endtab %}
+{% tab title="School View" %}
+> `Aimed at Head Teachers and Educational Psychologists.`
 
-{% tab title="Quality Improvement Manager" %}
-![](../../.gitbook/assets/wireframes-qim.png)
+![](<../.gitbook/assets/Wireframes - School View@2x.png>)
 {% endtab %}
 {% endtabs %}
 
 #### By Function
 
-{% hint style="warning" %}
-Links to live demo will be updated in the coming days.
-{% endhint %}
-
 {% tabs %}
 {% tab title="Comparator" %}
-![](../../.gitbook/assets/wireframes-comparator.png)
+![](<../.gitbook/assets/Wireframes - Comparator@2x.png>)
 {% endtab %}
 
-{% tab title="Explorer and Stories" %}
-![](../../.gitbook/assets/wireframes-data-explorer.png)
+{% tab title="Explorer" %}
+![](<../.gitbook/assets/Wireframes - Data Explorer@2x.png>)
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+The wireframes are currently undergoing a feedback process from the stakeholders.
+{% endhint %}
